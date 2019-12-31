@@ -54,8 +54,6 @@ You will see three files which are
 **This file is basically used to run process synchronously and so as to create an operative communication between the client and the server**
 
 
-**Run ```.cs``` files in Unity/VisualStudio and .py files in Python 3.6** 
-
 
 *2.HelloClient.cs*
 
@@ -67,4 +65,5 @@ You will see three files which are
 **This file is used to send the request of client to the server *(it acts as a messenger/transporter between client and server which are developed using Python)***
 
 
+**Run ```.cs``` files in Unity/VisualStudio and .py files in Python 3.6** 
 
