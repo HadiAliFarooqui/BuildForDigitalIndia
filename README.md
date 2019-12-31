@@ -65,5 +65,5 @@ You will see three files which are
 **This file is used to send the request of client to the server *(it acts as a messenger/transporter between client and server which are developed using Python)***
 
 
-**Run ```.cs``` files in Unity/VisualStudio and .py files in Python 3.6** 
+**Run ```.cs``` files in Unity/VisualStudio and ```.py``` files in Python 3.6** 
 
