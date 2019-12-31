@@ -3,6 +3,7 @@
 ## Things to download
 
 **1.Unity Software**
+
 2.Visual studio(with C# platform)
 3.Python 3.6
 4.Crazytalk8** 
