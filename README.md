@@ -8,7 +8,11 @@
 
 **3.Python 3.6**
 
+*install ppz module in python*
+
 **4.Crazytalk8** 
+
+
 
 ## Description of each file
 
@@ -38,4 +42,23 @@ Run this file.
 **This file is our server, here the chatbot is placed where in all the requests from user are taken into consideration and the server processes these requests and sends the desired output to the UI and this UI will gives a response to the user**
 
 **Then Goto:**
+
+```VisualChatbot/Assets/NetMQExample```
+
+You will see three files which are
+
+*1.RunAbleThreads.cs*
+
+**This file is basically used to run process synchronously and so as to create an operative communication between the client and the server**
+
+
+*2.HelloClient.cs*
+
+**This file handles all the features of client**
+
+
+*3.HelloRequest.cs*
+**This file is used to send the request of client to the server *(it acts as a messenger/transporter between client and server which are developed using Python)*  **
+
+
 
